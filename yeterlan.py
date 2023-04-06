@@ -1,3 +1,2 @@
-deneme
 
-pull request
+print"conflict"
